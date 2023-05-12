@@ -1,0 +1,5 @@
+C:\Users\kingd\OneDrive\Área de Trabalho\AulasPOO2\Atividades_dia_02_03_2023\Aividade2\obj\Debug\net6.0\Aividade2.csproj.AssemblyReference.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\AulasPOO2\Atividades_dia_02_03_2023\Aividade2\obj\Debug\net6.0\Aividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingd\OneDrive\Área de Trabalho\AulasPOO2\Atividades_dia_02_03_2023\Aividade2\obj\Debug\net6.0\Aividade2.AssemblyInfoInputs.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\AulasPOO2\Atividades_dia_02_03_2023\Aividade2\obj\Debug\net6.0\Aividade2.AssemblyInfo.cs
+C:\Users\kingd\OneDrive\Área de Trabalho\AulasPOO2\Atividades_dia_02_03_2023\Aividade2\obj\Debug\net6.0\Aividade2.csproj.CoreCompileInputs.cache

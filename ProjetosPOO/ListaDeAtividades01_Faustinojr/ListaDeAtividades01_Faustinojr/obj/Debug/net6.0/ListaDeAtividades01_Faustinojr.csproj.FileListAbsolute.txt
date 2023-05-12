@@ -1,0 +1,15 @@
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\bin\Debug\net6.0\ListaDeAtividades01_Faustinojr.exe
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\bin\Debug\net6.0\ListaDeAtividades01_Faustinojr.deps.json
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\bin\Debug\net6.0\ListaDeAtividades01_Faustinojr.runtimeconfig.json
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\bin\Debug\net6.0\ListaDeAtividades01_Faustinojr.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\bin\Debug\net6.0\ListaDeAtividades01_Faustinojr.pdb
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.csproj.AssemblyReference.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.AssemblyInfoInputs.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.AssemblyInfo.cs
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.csproj.CoreCompileInputs.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\refint\ListaDeAtividades01_Faustinojr.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.pdb
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ListaDeAtividades01_Faustinojr.genruntimeconfig.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\ListaDeAtividades01_Faustinojr\obj\Debug\net6.0\ref\ListaDeAtividades01_Faustinojr.dll

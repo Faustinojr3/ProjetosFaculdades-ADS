@@ -1,0 +1,5 @@
+C:\Users\faust\OneDrive\Documentos\GitHub\AtvdExtAlg2\NotasAlunos\NotasAlunos\obj\Debug\net6.0\NotasAlunos.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive\Documentos\GitHub\AtvdExtAlg2\NotasAlunos\NotasAlunos\obj\Debug\net6.0\NotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive\Documentos\GitHub\AtvdExtAlg2\NotasAlunos\NotasAlunos\obj\Debug\net6.0\NotasAlunos.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive\Documentos\GitHub\AtvdExtAlg2\NotasAlunos\NotasAlunos\obj\Debug\net6.0\NotasAlunos.AssemblyInfo.cs
+C:\Users\faust\OneDrive\Documentos\GitHub\AtvdExtAlg2\NotasAlunos\NotasAlunos\obj\Debug\net6.0\NotasAlunos.csproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca879abe-d299-43c6-a0f6-6b2d6111f1bc": {
+      "ProjectGuid": "ca879abe-d299-43c6-a0f6-6b2d6111f1bc",
+      "DisplayName": "AulaPOO_23_02_2023",
+      "ColorIndex": 0
+    },
+    "f14fdf18-3612-47e7-ab23-5b69cf2d8132": {
+      "ProjectGuid": "f14fdf18-3612-47e7-ab23-5b69cf2d8132",
+      "DisplayName": "Atividade4_POO_23_02_2023",
+      "ColorIndex": 1
+    },
+    "623a76bc-337f-4ce0-9dd2-ebae2c7c51c8": {
+      "ProjectGuid": "623a76bc-337f-4ce0-9dd2-ebae2c7c51c8",
+      "DisplayName": "Atividade5_POO_23_02_2023",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

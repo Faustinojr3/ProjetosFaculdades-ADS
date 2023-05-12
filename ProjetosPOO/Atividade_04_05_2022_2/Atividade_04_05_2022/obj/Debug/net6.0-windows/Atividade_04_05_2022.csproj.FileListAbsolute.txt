@@ -1,0 +1,51 @@
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.exe
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.deps.json
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.runtimeconfig.json
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.dll
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.pdb
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.AssemblyReference.cache
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.Form1.resources
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.GenerateResource.cache
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.AssemblyInfoInputs.cache
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.AssemblyInfo.cs
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.CoreCompileInputs.cache
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.dll
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\refint\Atividade_04_05_2022.dll
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.pdb
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.genruntimeconfig.cache
+C:\Users\2021102060019\Desktop\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\ref\Atividade_04_05_2022.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.exe
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.deps.json
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.runtimeconfig.json
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.pdb
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.AssemblyReference.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.Form1.resources
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.GenerateResource.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.AssemblyInfoInputs.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.AssemblyInfo.cs
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.CoreCompileInputs.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\refint\Atividade_04_05_2022.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.pdb
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.genruntimeconfig.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\ref\Atividade_04_05_2022.dll
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.exe
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.deps.json
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.runtimeconfig.json
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.dll
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\bin\Debug\net6.0-windows\Atividade_04_05_2022.pdb
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.AssemblyReference.cache
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.Form1.resources
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.GenerateResource.cache
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.AssemblyInfoInputs.cache
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.AssemblyInfo.cs
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.csproj.CoreCompileInputs.cache
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.dll
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\refint\Atividade_04_05_2022.dll
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.pdb
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\Atividade_04_05_2022.genruntimeconfig.cache
+C:\Users\2021102060019\Downloads\Atividade_04_05_2022\Atividade_04_05_2022\obj\Debug\net6.0-windows\ref\Atividade_04_05_2022.dll

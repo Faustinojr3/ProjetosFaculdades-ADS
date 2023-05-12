@@ -1,0 +1,15 @@
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\bin\Debug\net6.0\Atividade1.exe
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\bin\Debug\net6.0\Atividade1.deps.json
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\bin\Debug\net6.0\Atividade1.runtimeconfig.json
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\bin\Debug\net6.0\Atividade1.dll
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\bin\Debug\net6.0\Atividade1.pdb
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.csproj.AssemblyReference.cache
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.AssemblyInfoInputs.cache
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.AssemblyInfo.cs
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.dll
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\refint\Atividade1.dll
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.pdb
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\Atividade1.genruntimeconfig.cache
+C:\Users\2021102060019\Downloads\AulasPOO2\Atividades_dia_02_03_2023\Atividades_dia_02_03_2023\obj\Debug\net6.0\ref\Atividade1.dll

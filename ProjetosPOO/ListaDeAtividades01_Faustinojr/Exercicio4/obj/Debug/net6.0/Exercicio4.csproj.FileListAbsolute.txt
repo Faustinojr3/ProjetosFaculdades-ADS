@@ -1,0 +1,15 @@
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\bin\Debug\net6.0\Exercicio4.exe
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\bin\Debug\net6.0\Exercicio4.deps.json
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\bin\Debug\net6.0\Exercicio4.runtimeconfig.json
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\bin\Debug\net6.0\Exercicio4.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\bin\Debug\net6.0\Exercicio4.pdb
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.AssemblyReference.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfo.cs
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\refint\Exercicio4.dll
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.pdb
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\Exercicio4.genruntimeconfig.cache
+C:\Users\kingd\OneDrive\Área de Trabalho\ListaDeAtividades01_Faustinojr\Exercicio4\obj\Debug\net6.0\ref\Exercicio4.dll

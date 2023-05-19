@@ -20,11 +20,29 @@ nome da instituição de ensino a qual o cliente/estudante está vinculado.  */
         {
             this.cpf = cpf;
             this.nomeInstituicao = nomeinstrutor;
+
+            limiteChequeEspecial = 1000;
         }
        
         public override void Sacar(double valor)
         {
-            if (valor <= limiteChequeEspecial+saldo) { saldo= saldo - valor; }
+            if (valor <= limiteChequeEspecial+saldo) { 
+               if(saldo-valor==0) { saldo = saldo - valor; }                
+               if(saldo-valor<0 && valor<saldo+limiteChequeEspecial) {
+                    
+                    valor = valor - saldo;
+                    
+                   
+                    if (valor > 0) { 
+                        limiteChequeEspecial = limiteChequeEspecial - valor;
+                        saldo -= valor; 
+                    }
+                
+                }
+            
+            
+            
+            }
             else { Console.WriteLine("Valor acima do disponível"); }
 
 

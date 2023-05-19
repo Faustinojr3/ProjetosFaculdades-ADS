@@ -23,15 +23,33 @@ if(op == 1)
         double sacar= Convert.ToDouble( Console.ReadLine());
         conta.Sacar(sacar);
     }
-    if(op == 2) { Console.WriteLine(); }
-
+    if(op == 2) { Console.WriteLine("Digite o valor a ser depositado:"); 
+    double depositar = Convert.ToDouble(Console.ReadLine());
+    conta.Depositar(depositar);
+    }
 
 }
 if(op == 2)
 {
     ContaEmpresarial contaEmpresarial = new ContaEmpresarial(nconta, agencia, titular);
+  Console.WriteLine("Escolha uma das seguintes opções: \r\n 1- Sacar \r\n 2- Depositar");
+    op=Convert.ToInt32(Console.ReadLine());
 
+    if (op == 1)
+    {
+        Console.WriteLine("Digite o valor a ser sacado");
+        double sacar = Convert.ToDouble(Console.ReadLine());
+        contaEmpresarial.Sacar(sacar);
+    }
+    if (op == 2) { Console.WriteLine("Digite o valor a ser depositado:"); 
+    double depositar = Convert.ToDouble(Console.ReadLine());
+    contaEmpresarial.Depositar(depositar);
+    }
+    if (op == 3) { Console.WriteLine("Insira o valor a ser emprestado: (Limite : R$ " + contaEmpresarial.getLimiteEmprestimo()+ ")");
+        double emprestimo= Convert.ToDouble(Console.ReadLine());
+        contaEmpresarial.fazerEmprestimo(emprestimo);
 
+    }
 }
 if(op == 3)
 {
@@ -42,4 +60,19 @@ if(op == 3)
 
     ContaEstudante contaEstudante = new ContaEstudante(nconta, agencia, titular, cpf, nomeInstituição);
 
+    Console.WriteLine("Escolha uma das seguintes opções: \r\n 1- Sacar \r\n 2- Depositar");
+    op = Convert.ToInt32(Console.ReadLine());
+
+    if (op == 1)
+    {
+        Console.WriteLine("Digite o valor a ser sacado ( Valor disponível cheque especial  R$ " +( contaEstudante.getSaldo()-contaEstudante.getLimiteChequeEspecial())+" )") ;
+        double sacar = Convert.ToDouble(Console.ReadLine());
+        contaEstudante.Sacar(sacar);
+    }
+    if (op == 2)
+    {
+        Console.WriteLine("Digite o valor a ser depositado:");
+        double depositar = Convert.ToDouble(Console.ReadLine());
+        contaEstudante.Depositar(depositar);
+    }
 }

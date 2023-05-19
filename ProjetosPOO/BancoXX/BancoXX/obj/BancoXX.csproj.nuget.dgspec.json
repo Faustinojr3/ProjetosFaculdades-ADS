@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2021102060019\\Desktop\\BancoXX\\BancoXX\\BancoXX.csproj": {}
+    "C:\\Users\\kingd\\OneDrive\\Documentos\\GitHub\\ProjetosFaculdades-ADS\\ProjetosPOO\\BancoXX\\BancoXX\\BancoXX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2021102060019\\Desktop\\BancoXX\\BancoXX\\BancoXX.csproj": {
+    "C:\\Users\\kingd\\OneDrive\\Documentos\\GitHub\\ProjetosFaculdades-ADS\\ProjetosPOO\\BancoXX\\BancoXX\\BancoXX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2021102060019\\Desktop\\BancoXX\\BancoXX\\BancoXX.csproj",
+        "projectUniqueName": "C:\\Users\\kingd\\OneDrive\\Documentos\\GitHub\\ProjetosFaculdades-ADS\\ProjetosPOO\\BancoXX\\BancoXX\\BancoXX.csproj",
         "projectName": "BancoXX",
-        "projectPath": "C:\\Users\\2021102060019\\Desktop\\BancoXX\\BancoXX\\BancoXX.csproj",
-        "packagesPath": "C:\\Users\\2021102060019\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2021102060019\\Desktop\\BancoXX\\BancoXX\\obj\\",
+        "projectPath": "C:\\Users\\kingd\\OneDrive\\Documentos\\GitHub\\ProjetosFaculdades-ADS\\ProjetosPOO\\BancoXX\\BancoXX\\BancoXX.csproj",
+        "packagesPath": "C:\\Users\\kingd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kingd\\OneDrive\\Documentos\\GitHub\\ProjetosFaculdades-ADS\\ProjetosPOO\\BancoXX\\BancoXX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2021102060019\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kingd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

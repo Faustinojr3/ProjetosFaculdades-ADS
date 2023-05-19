@@ -27,6 +27,7 @@ namespace BancoXX
         public ContaEmpresarial(int nConta, string agencia, string titular):base(nConta, agencia, titular)
         {
             saldo = saldo - anuidade;
+            limiteEmprestimo = 2000;
         }
         public void fazerEmprestimo(double valor)
         {

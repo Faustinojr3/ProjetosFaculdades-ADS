@@ -26,26 +26,62 @@ nome da instituição de ensino a qual o cliente/estudante está vinculado.  */
        
         public override void Sacar(double valor)
         {
-            if (valor <= limiteChequeEspecial+saldo) { 
-               if(saldo-valor==0) { saldo = saldo - valor; }                
-               if(saldo-valor<0 && valor<saldo+limiteChequeEspecial) {
-                    
-                    valor = valor - saldo;
-                    
-                   
-                    if (valor > 0) { 
-                        limiteChequeEspecial = limiteChequeEspecial - valor;
-                        saldo -= valor; 
+            if (valor >0)
+            {
+                if (valor <= limiteChequeEspecial + saldo)
+                {
+
+                    if (saldo - valor >= 0) { saldo = saldo - valor; }
+
+                    if (saldo - valor < 0 && valor <= saldo + limiteChequeEspecial)
+                    {
+
+                        valor = valor - saldo;
+                        saldo = 0;
+
+                        if (valor > 0)
+                        {
+                            limiteChequeEspecial = limiteChequeEspecial - valor;
+                            saldo -= valor;
+                        }
+
                     }
-                
+
+
+
                 }
-            
-            
-            
+                else
+                {
+
+                    if (saldo < 0 && valor <= limiteChequeEspecial)
+                    {
+
+                        if (saldo - valor < 0 && valor <= limiteChequeEspecial)
+                        {
+
+                            saldo -= valor;
+                            limiteChequeEspecial -= valor;
+
+
+                        }
+
+                    }
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Valor acima do disponível");
+                        Console.ReadKey();
+                    }
+                }
+
             }
-            else { Console.WriteLine("Valor acima do disponível"); }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("Valor negativo!");
+                Console.ReadKey();
 
-
+            }
         }
 
         //gets

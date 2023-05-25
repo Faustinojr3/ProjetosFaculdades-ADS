@@ -23,18 +23,41 @@ estudante e conta para empresa*/
             this.agencia = agencia;
             this.titular = titular;
 
+            saldo = 1000;
         }
         public virtual void Sacar(double valor)
         {
-            if (valor<=saldo) { setSaldo(saldo - valor); }
-            else { Console.WriteLine("Valor acima do disponível"); }
+            if (valor > 0)
+            {
+                if (valor <= saldo) { saldo = saldo - valor; }
 
+                else
+                {
+                    Console.Clear();
+                    Console.WriteLine("Valor acima do disponível");
+                    Console.ReadKey();
+                }
+                }
+            else { Console.Clear();
+                Console.WriteLine( "Valor negativo!");
+                Console.ReadKey();
+
+            }
 
         }
-        public void Depositar(double valor) { 
-        
-            
-            setSaldo(saldo+valor);
+        public void Depositar(double valor) {
+
+            if (valor > 0)
+            {
+                saldo = saldo + valor;
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("Valor negativo!");
+                Console.ReadKey();
+
+            }
         }
 
 

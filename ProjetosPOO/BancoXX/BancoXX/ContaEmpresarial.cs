@@ -26,39 +26,69 @@ namespace BancoXX
 
         public ContaEmpresarial(int nConta, string agencia, string titular):base(nConta, agencia, titular)
         {
+            anuidade = 50;
             saldo = saldo - anuidade;
+          
             limiteEmprestimo = 2000;
         }
         public void fazerEmprestimo(double valor)
         {
-            if (valor < limiteEmprestimo&& limiteEmprestimo>totalEmprestimo) {
-            
-                if (valor+totalEmprestimo<=limiteEmprestimo) { Depositar(valor); totalEmprestimo += valor;  }
-            
-            
-            
-            
+            if (valor > 0)
+            {
+                if (valor <= limiteEmprestimo && limiteEmprestimo > totalEmprestimo)
+                {
+
+                    if (valor + totalEmprestimo <= limiteEmprestimo)
+                    {
+                        saldo += valor;
+                        totalEmprestimo += valor;
+                        limiteEmprestimo -= totalEmprestimo;
+                    }
+
+                }
             }
         }
 
         public override void Sacar(double valor)
         {
-         
+            if (valor > 0)
+            {
 
-            if (valor <= saldo) { 
-
-                if (valor >= 5000&& (saldo-(valor+5)>0))
+                if (valor <= saldo)
                 {
 
-                    saldo = saldo -( valor+5);
+                    if (valor >= 5000 && (saldo - (valor + 5) >= 0))
+                    {
+                        saldo -= (valor + 5);
+                    }
+                    else
+                    {
+
+                        if (valor < 5000) { saldo -= valor; }
+                        else
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Valor acima do disponível");
+                            Console.ReadKey();
+                        }
+                    }
+
+                }
+                else
+                {
+                    Console.Clear();
+                    Console.WriteLine("Valor acima do disponível");
+                    Console.ReadKey();
                 }
 
-
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("Valor negativo!");
+                Console.ReadKey();
 
             }
-            else { Console.WriteLine("Valor acima do disponível"); }
-            
-
         }
 
         public double getAnuidade() { return anuidade; }

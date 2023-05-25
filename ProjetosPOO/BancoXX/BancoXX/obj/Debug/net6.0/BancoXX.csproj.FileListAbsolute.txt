@@ -1,0 +1,15 @@
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\bin\Debug\net6.0\BancoXX.exe
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\bin\Debug\net6.0\BancoXX.deps.json
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\bin\Debug\net6.0\BancoXX.runtimeconfig.json
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\bin\Debug\net6.0\BancoXX.dll
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\bin\Debug\net6.0\BancoXX.pdb
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.csproj.AssemblyReference.cache
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.AssemblyInfoInputs.cache
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.AssemblyInfo.cs
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.csproj.CoreCompileInputs.cache
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.dll
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\refint\BancoXX.dll
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.pdb
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\BancoXX.genruntimeconfig.cache
+C:\Users\kingd\OneDrive\Documentos\GitHub\ProjetosFaculdades-ADS\ProjetosPOO\BancoXX\BancoXX\obj\Debug\net6.0\ref\BancoXX.dll

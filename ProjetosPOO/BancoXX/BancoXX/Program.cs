@@ -85,7 +85,12 @@ do
                     double emprestimo = Convert.ToDouble(Console.ReadLine());
                     contaEmpresarial.fazerEmprestimo(emprestimo);
                 }
-                else { Console.WriteLine("Sem limite disponível, favor pagar emprestimos anteriores"); }
+                else
+                {
+                   
+                    Console.WriteLine("Sem limite disponível, favor pagar emprestimos anteriores");
+                    Console.ReadKey();
+                }
             }
             if (op2 < 4 && op > 0)
             {

@@ -44,8 +44,26 @@ namespace BancoXX
                         totalEmprestimo += valor;
                         limiteEmprestimo -= totalEmprestimo;
                     }
+                    else{
+                        Console.Clear();
+                        Console.WriteLine("Valor acima do disponível");
+                        Console.ReadKey();
+                    }
 
                 }
+                else
+                {
+                    Console.Clear();
+                    Console.WriteLine("Emprestimo não altorizado");
+                    Console.ReadKey();
+                }
+
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("Valor negativo!");
+                Console.ReadKey();
             }
         }
 
